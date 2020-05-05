@@ -1,0 +1,1609 @@
+@import url('https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here:400|Paprika:400|Fjalla+One:400|Biryani:400,700');
+
+@font-face {
+                          font-family: "Biryani-Black";
+                          src: url('../fonts/Biryani-Black.ttf') format("truetype");
+                        }
+                        
+.winkelcasestudy {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 12721px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.winkelcasestudy .rectanglecopy {
+  background-color    : rgba(42, 40, 40, 1.0);
+  top                 : 3664px;
+  height              : 744px;
+  width               : 1443px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .rectanglecopy2 {
+  background-color    : rgba(42, 40, 40, 1.0);
+  top                 : 6036px;
+  height              : 1671px;
+  box-sizing          : border-box;
+  width               : 1445px;
+  position            : absolute;
+  margin              : 0;
+  left                : -4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .rectanglecopy3 {
+  background-color    : rgba(42, 40, 40, 1.0);
+  top                 : 8939px;
+  height              : 1917px;
+  width               : 1443px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .thechallenge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2261px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(97, 94, 94, 1.0);
+  text-align          : center;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.winkelcasestudy .theproblemstatemen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3751px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.winkelcasestudy .applicationmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6124px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.winkelcasestudy .paperprototypes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4508px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(97, 95, 95, 1.0);
+  text-align          : center;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.winkelcasestudy .forthisprojectmy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2432px;
+  height              : auto;
+  width               : 1266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(97, 94, 94, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .inthismodernage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3996px;
+  height              : auto;
+  width               : 1266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .iteratingfrommypr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6369px;
+  height              : auto;
+  width               : 1266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .inordertobrainsto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4753px;
+  height              : auto;
+  width               : 1266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(97, 95, 95, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4874px;
+  height              : 1163px;
+  width               : 1766px;
+  position            : absolute;
+  margin              : 0;
+  left                : -163px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group3 .mockcart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 352px;
+  height              : 511px;
+  width               : 907px;
+  position            : absolute;
+  margin              : 0;
+  left                : 705px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group3 .mockcategories {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 143px;
+  height              : 510px;
+  width               : 907px;
+  position            : absolute;
+  margin              : 0;
+  left                : 299px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group3 .mockchicken {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 653px;
+  height              : 510px;
+  width               : 908px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group3 .mocklogin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 290px;
+  height              : 512px;
+  width               : 908px;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group3 .mockmeats {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 512px;
+  width               : 908px;
+  position            : absolute;
+  margin              : 0;
+  left                : 445px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group3 .mockproduct {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 500px;
+  height              : 510px;
+  width               : 908px;
+  position            : absolute;
+  margin              : 0;
+  left                : 554px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group3 .mockprofile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 205px;
+  height              : 511px;
+  width               : 908px;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group3 .mocksplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 441px;
+  height              : 511px;
+  width               : 908px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .rectangle {
+  background-color    : rgba(42, 40, 40, 1.0);
+  top                 : 0px;
+  height              : 2181px;
+  width               : 1443px;
+  position            : absolute;
+  margin              : 0;
+  left                : -3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 262px;
+  width               : 211px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .logo .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 64px;
+  height              : 137px;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .logo .sh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 211px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fjalla One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 208.12px;
+  color               : rgba(43, 41, 41, 1.0);
+  text-align          : left;
+  line-height         : 262.0px;
+}
+.winkelcasestudy .copyright2512020shi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12585px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 411px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(97, 97, 97, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .by2025mobileshop {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1843px;
+  height              : auto;
+  width               : 1159px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 238px;
+  height              : 423px;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : 618px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 99px;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 229px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .stroke3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 101px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 228px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 147px;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 222px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .stroke7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 149px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 221px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 305px;
+  width               : 266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 347px;
+  height              : 77px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 227px;
+  height              : 20px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 158px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .stroke15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 226px;
+  height              : 20px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 158px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 163px;
+  height              : 65px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .stroke19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 67px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 183px;
+  height              : 30px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .stroke23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 182px;
+  height              : 32px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 185px;
+  height              : 12px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill27 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 116px;
+  height              : 79px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : 108px;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 254px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 241px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 127px;
+  height              : 43px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : 27px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .stroke37 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 185px;
+  height              : 27px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill39 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 278px;
+  height              : 119px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .stroke41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 277px;
+  height              : 121px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group2 .fill43 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 365px;
+  height              : 30px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .winkel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 675px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 598px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Just Me Again Down Here", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 100.0px;
+  color               : rgba(255, 0, 30, 1.0);
+  text-align          : center;
+  letter-spacing      : -2.41px;
+  line-height         : 150.0px;
+}
+.winkelcasestudy .amealprepandgroc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 882px;
+  height              : auto;
+  width               : 1191px;
+  position            : absolute;
+  margin              : 0;
+  left                : 138px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(207, 198, 199, 1.0);
+  text-align          : center;
+  letter-spacing      : -1.45px;
+  line-height         : 106.0px;
+}
+.winkelcasestudy .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 949px;
+  height              : 837px;
+  width               : 1488px;
+  position            : absolute;
+  margin              : 0;
+  left                : 230px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .thankyou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1045px;
+  height              : 636px;
+  width               : 1130px;
+  position            : absolute;
+  margin              : 0;
+  left                : -220px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .screenshot20200504at11728am {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2776px;
+  height              : 808px;
+  width               : 1175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .screenshot20200504at20507am {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6771px;
+  height              : 861px;
+  width               : 1203px;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .rusticmodern2x {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10219px;
+  height              : 482px;
+  width               : 626px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .delicatevibrantandfriendly2x {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9419px;
+  height              : 578px;
+  width               : 515px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .styletile2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10219px;
+  height              : 482px;
+  width               : 682px;
+  position            : absolute;
+  margin              : 0;
+  left                : 706px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .styletile1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9419px;
+  height              : 578px;
+  width               : 817px;
+  position            : absolute;
+  margin              : 0;
+  left                : 582px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .designdirectionscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9000px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.winkelcasestudy .wireframes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7854px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(97, 94, 94, 1.0);
+  text-align          : center;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.winkelcasestudy .icameupwithtwod {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9171px;
+  height              : auto;
+  width               : 1266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .thisprocessletme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8025px;
+  height              : auto;
+  width               : 1266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(97, 94, 94, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .rectangle1 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 8157px;
+  height              : 718px;
+  box-sizing          : border-box;
+  width               : 1341px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8194px;
+  height              : 658px;
+  width               : 1203px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .chicken {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 820px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .deliveryoptions {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 205px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .homescreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 410px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .meats {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .mycart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .myorders {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .orderconfirmation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 820px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .productdetails {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1025px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .profilemenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1025px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .shippingaddress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 410px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .signup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 205px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group .splashscreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 318px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .finalscreens {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10941px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(97, 94, 94, 1.0);
+  text-align          : center;
+  letter-spacing      : 6.89px;
+  line-height         : 106.0px;
+}
+.winkelcasestudy .mockuphome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11132px;
+  height              : 1080px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : -207px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11619px;
+  height              : 106px;
+  width               : 1279px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group4 .arrowscopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 106px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1173px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.winkelcasestudy .group4 .arrowscopy2 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 106px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group4 .arrowscopy2 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 66px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group4 .arrowscopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 106px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.winkelcasestudy .linktofullprototy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12297px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 469px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(97, 94, 94, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.winkelcasestudy .linktofullprototy .span1 {
+  
+}
+.winkelcasestudy .linktofullprototy .span2 {
+  color               : rgba(20, 33, 238, 1.0);
+  text-decoration     : underline;
+}
+.winkelcasestudy .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 851px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(229, 226, 226, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+}
+.winkelcasestudy .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1018px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(229, 226, 226, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+}
+.winkelcasestudy .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 26px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1360px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group7 .fill6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 26px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group7 .fill22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 8px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group7 .fill24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 7px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group7 .fill26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 6px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group7 .fill28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 5px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group7 .fill30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 5px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group7 .fill32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 6px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .fill15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 21px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1219px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .fill15 .fill8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 79px;
+  height              : 17px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1172px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group5 .fill10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 13px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group5 .fill16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 8px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 24px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1267px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group6 .fill12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group6 .fill18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 16px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group6 .fill20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .fill14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 25px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1319px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12152px;
+  height              : 21px;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 663px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 97px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.winkelcasestudy .group1 .ovalcopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

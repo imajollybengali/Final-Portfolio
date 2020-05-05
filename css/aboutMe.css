@@ -1,0 +1,522 @@
+@import url('https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here:400|Paprika:400|Fjalla+One:400|Biryani:400,700');
+
+@font-face {
+                          font-family: "Biryani-Black";
+                          src: url('../fonts/Biryani-Black.ttf') format("truetype");
+                        }
+                        
+.aboutme {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.aboutme .rectangle {
+  background-color    : rgba(44, 43, 43, 1.0);
+  top                 : 0px;
+  height              : 1024px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .itransformproblems {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 661px;
+  height              : auto;
+  width               : 1191px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani-Black", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(116, 113, 113, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.aboutme .itransformproblems .span1 {
+  
+}
+.aboutme .itransformproblems .span2 {
+  color               : rgba(28, 28, 28, 1.0);
+}
+.aboutme .itransformproblems .span3 {
+  
+}
+.aboutme .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 851px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(229, 226, 226, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+}
+.aboutme .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1018px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(229, 226, 226, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+}
+.aboutme .fill30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 83px;
+  height              : 5px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1376px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .fill32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : 6px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1377px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -26px;
+  height              : 263px;
+  width               : 211px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .logo .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 65px;
+  height              : 137px;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .logo .sh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 211px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fjalla One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 208.12px;
+  color               : rgba(45, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 262.0px;
+}
+.aboutme .image1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 140px;
+  height              : 522px;
+  width               : 664px;
+  position            : absolute;
+  margin              : 0;
+  left                : 744px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .copyright2512020shi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10276px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(97, 97, 97, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.14px;
+  line-height         : 64.0px;
+}
+.aboutme .shikderisafronte {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 290px;
+  height              : auto;
+  width               : 963px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani-Black", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.63px;
+  line-height         : 86.0px;
+}
+.aboutme .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 583px;
+  height              : 3px;
+  width               : 118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 83px;
+  height              : 13px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1187px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .linkedin .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .linkedin .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .linkedin .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .github {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 24px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .github .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .basketball {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1215px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .basketball .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .behancenetwork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : 10px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1293px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .behancenetwork .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 10px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .behancenetwork .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 8px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .behancenetwork .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .fill14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 27px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1323px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 81px;
+  height              : 17px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1253px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .email .fill10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.aboutme .email .fill16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 8px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

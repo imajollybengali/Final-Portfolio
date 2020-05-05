@@ -1,0 +1,1594 @@
+@import url('https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here:400|Paprika:400|Fjalla+One:400|Biryani:400,700');
+
+@font-face {
+                          font-family: "Biryani-Black";
+                          src: url('../fonts/Biryani-Black.ttf') format("truetype");
+                        }
+                        
+.portfolio {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2810px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.portfolio .rectangle {
+  background-color    : rgba(44, 43, 43, 1.0);
+  top                 : 0px;
+  height              : 2810px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 263px;
+  width               : 211px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .logo .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 65px;
+  height              : 137px;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .logo .sh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 211px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fjalla One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 208.12px;
+  color               : rgba(45, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 262.0px;
+}
+.portfolio .group34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : 64px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .group3 .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 26px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 212px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 20px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 13px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 25px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 8px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 16px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 8px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 219px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 7px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 214px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 6px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 215px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 5px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 223px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 5px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 228px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .group34 .fill32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 6px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 229px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .portfolio1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 851px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(229, 226, 226, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+}
+.portfolio .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1018px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(229, 226, 226, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+}
+.portfolio .floracracy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 689px;
+  height              : 564px;
+  width               : 1196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 1196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1px;
+  height              : 563px;
+  width               : 1195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -300px;
+  height              : 1255px;
+  width               : 1498px;
+  position            : absolute;
+  margin              : 0;
+  left                : -341px;
+  transform           : rotate(27deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .fullviewpage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 441px;
+  width               : 555px;
+  position            : absolute;
+  margin              : 0;
+  left                : 432px;
+  transform           : rotate(1deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .fullviewpagecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 441px;
+  width               : 555px;
+  position            : absolute;
+  margin              : 0;
+  left                : 432px;
+  transform           : rotate(1deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .messagepagefillcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 277px;
+  height              : 427px;
+  width               : 491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1002px;
+  transform           : rotate(1deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .visualizercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 277px;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  transform           : rotate(1deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .visualizer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 490px;
+  height              : 395px;
+  width               : 555px;
+  position            : absolute;
+  margin              : 0;
+  left                : 432px;
+  transform           : rotate(1deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .yourbagcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -98px;
+  height              : 491px;
+  width               : 227px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1135px;
+  transform           : rotate(91deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .yourbag {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 719px;
+  height              : 397px;
+  width               : 473px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1002px;
+  transform           : rotate(1deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .messagepage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 328px;
+  height              : 413px;
+  width               : 473px;
+  position            : absolute;
+  margin              : 0;
+  left                : -26px;
+  transform           : rotate(271deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group .group1 .styletile2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 899px;
+  height              : 350px;
+  width               : 555px;
+  position            : absolute;
+  margin              : 0;
+  left                : 432px;
+  transform           : rotate(1deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .rectanglecopy {
+  background-color    : rgba(40, 38, 38, 1.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 1196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+}
+.portfolio .floracracy .group57 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 199px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 199px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .fill2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 119px;
+  height              : 17px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .fill3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 119px;
+  height              : 17px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 88px;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 17px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 17px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 17px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 18px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 17px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 18px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 62px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill36 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill38 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill42 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill44 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 1px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill46 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill48 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill50 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 1px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill52 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 0px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group57 .group56 .fill54 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 0px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .reimaginingthecus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : auto;
+  width               : 341px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani-Black", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+}
+.portfolio .floracracy .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 392px;
+  height              : 43px;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group2 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group2 .group4 .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group2 .group4 .group7 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  box-sizing          : border-box;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .floracracy .group2 .group4 .group7 .viewcasestudy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20.93%;
+  height              : 58.14%;
+  width               : 82.96%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.52%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.84px;
+  line-height         : 28.0px;
+}
+.portfolio .winkel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1294px;
+  height              : 564px;
+  width               : 1206px;
+  position            : absolute;
+  margin              : 0;
+  left                : 122px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 1206px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .winkel1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 1206px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .winkel1 .rectanglecopy {
+  background-color    : rgba(68, 73, 77, 1.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 1196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+}
+.portfolio .winkel .group .winkel1 .winkel2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 101px;
+  height              : auto;
+  width               : 245px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Just Me Again Down Here", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(226, 226, 226, 1.0);
+  text-align          : center;
+  letter-spacing      : -1.16px;
+  line-height         : 72.0px;
+}
+.portfolio .winkel .group .group60 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 76px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 18px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group3 .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .stroke4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 20px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 26px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group8 .group81 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 26px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .stroke9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 55px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group13 .group131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 55px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 14px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group16 .group161 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 14px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 3px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group19 .group191 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .stroke20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 5px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group24 .group241 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .stroke25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 14px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 5px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group29 .group291 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .stroke30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 7px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group341 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 2px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group341 .group342 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group37 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 14px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group37 .group371 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 14px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 20px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group40 .group401 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group43 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group43 .group431 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group46 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 7px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group46 .group461 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 7px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group49 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 5px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group49 .group491 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .stroke50 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 5px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group54 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 21px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group54 .group541 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .stroke55 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 23px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group59 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : 5px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group60 .group59 .group591 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 394px;
+  height              : 43px;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group2copy .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 223px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group2copy .group5 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  box-sizing          : border-box;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .group .group2copy .group5 .viewcasestudy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 187px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.84px;
+  line-height         : 28.0px;
+}
+.portfolio .winkel .group .amealprepandgroc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 189px;
+  height              : auto;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Biryani-Black", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.07px;
+  line-height         : 32.0px;
+}
+.portfolio .winkel .varietyoffruitsandvegetables952485 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 852px;
+  position            : absolute;
+  margin              : 0;
+  left                : 354px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .winkel .casemockup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 507px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 819px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.portfolio .voluntopia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1899px;
+  height              : 678px;
+  width               : 1215px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
