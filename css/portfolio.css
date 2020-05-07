@@ -32,7 +32,8 @@ a:visited {
 
 a:hover
 {
-     color:#FFFFFF;
+     color:#464545;
+
      text-decoration:none;
      cursor:pointer;
 }
@@ -1422,6 +1423,11 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
+
+.portfolio .winkel .group .group2copy:hover .group5 .rectangle1{
+  background-color: white;
+}
+
 .portfolio .winkel .group .group2copy .group5 .viewcasestudy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 9px;
